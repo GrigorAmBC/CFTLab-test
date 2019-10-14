@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="your_name">Your name</string>
+    <string name="your_surname">Your surname</string>
+    <string name="your_birth_date">Your birth date</string>
+    <string name="your_password">Your password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="sign_up">sign up</string>
+    <string name="greeting">Hello</string>
+</resources>
